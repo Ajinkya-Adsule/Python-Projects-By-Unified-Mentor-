@@ -1,1 +1,25 @@
 # Python-Projects-By-Unified-Mentor-
+
+HI Guys ,
+
+I have completed my Python-Projects   by using dataset,  provided by Unified Mentor during the Business Analyst Internship .
+
+
+1. First Projecct I was assigned was Telecommunication Industry Project in which I used  Jupyter notebook as part of my learning experience in the study of applied statistics.
+ I learned various new tools and leaned
+   1.1 Statistical Techniques Used:
+      Regression analysis (linear, logistic, etc.)
+       Clustering (k-means, hierarchical)
+         Time series analysis (ARIMA, SARIMA)
+              Hypothesis testing (t-tests, ANOVA)
+               Statistical modeling (e.g., generalized linear models, decision trees)
+    2.1. Python Libraries and Tools:
+         Pandas: For data wrangling and manipulation.
+           NumPy: For numerical computing.
+               Matplotlib/Seaborn: For data visualization.
+                "used Jupyter Notebooks for development and analysis , Used visual studio code to identify errors.
+   3.1   Quantifiable Achievements and Insights:
+              Developed a new approach to data cleaning that significantly reduced errors
+   Completed the Hypothesis Testing and Null & Alternate Hypothesis in my python project .
+
+   Please find my project files below , you may visual studio code  (recommended) or any other apllication of your choice to view my project .

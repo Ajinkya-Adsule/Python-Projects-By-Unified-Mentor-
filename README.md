@@ -19,9 +19,7 @@ I have completed my Python-Projects  which were assigned to put my knowledge and
        Clustering (k-means, hierarchical)
          Time series analysis (ARIMA, SARIMA)
               Hypothesis testing (t-tests, ANOVA)
-
-               Statistical modeling (e.g., generalized linear models, decision trees)
-
+               Statistical modeling e.g., generalized linear models, decision trees
 
 
 

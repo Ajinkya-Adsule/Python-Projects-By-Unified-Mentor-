@@ -1,8 +1,13 @@
 # Python-Projects-By-Unified-Mentor-
+![image](https://github.com/Ajinkya-Adsule/Python-Projects-By-Unified-Mentor-/blob/d5f18027019c2b0e05df65ad0a775557c8370e20/Projects%20Files%20Python%20files/Python-Logo.jpg)
+
+
+
+
 
 HI Guys ,
 
-I have completed my Python-Projects   by using dataset,  provided by Unified Mentor during the Business Analyst Internship .
+I have completed my Python-Projects  which were assigned to put my knowledge and new skills to put the test and submit an project solution for problem statements which were   provided by Unified Mentor during the Business Analyst Internship .
 
 
 1. First Projecct I was assigned was Telecommunication Industry Project in which I used  Jupyter notebook as part of my learning experience in the study of applied statistics.

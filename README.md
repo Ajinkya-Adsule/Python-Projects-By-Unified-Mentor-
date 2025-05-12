@@ -17,7 +17,7 @@ I have completed my Python-Projects  which were assigned to put my knowledge and
  I learned various new tools .
 
 
-![image}(https://github.com/Ajinkya-Adsule/Python-Projects-By-Unified-Mentor-/blob/47a5862869724905673a758bef6ac8ebdbacef68/Projects%20Files%20Python%20files/Statitstics%201.png)
+![image](https://github.com/Ajinkya-Adsule/Python-Projects-By-Unified-Mentor-/blob/47a5862869724905673a758bef6ac8ebdbacef68/Projects%20Files%20Python%20files/Statitstics%201.png)
 
 ![image](https://github.com/Ajinkya-Adsule/Python-Projects-By-Unified-Mentor-/blob/47a5862869724905673a758bef6ac8ebdbacef68/Projects%20Files%20Python%20files/statistics%202.png)
 
